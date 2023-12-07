@@ -8,7 +8,7 @@ const page = () => {
   // eslint-disable-next-line react-hooks/rules-of-hooks
   const [Service, setservice] = useState();
   const checkserivce = async()=>{
-    let pins = await fetch('http://localhost:3000/api/pincode')
+    let pins = await fetch('https://codeswear-five.vercel.app/api/pincode')
     let {pincode} = await pins.json();
     let pinJson = pincode;
        console.log(pinJson); 

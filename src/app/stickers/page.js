@@ -9,7 +9,7 @@ const Stickers = () => {
     <div className="flex flex-wrap -m-4">
       <div className="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a >
-          <Link href="/product" className="block relative h-48 rounded overflow-hidden"><Image width={200} height={300} alt="ecommerce" className="object-cover object-center w-full h-full block" src="/Stickers/sticker1.jpeg"/></Link>
+          <Link href="/product" className="block relative h-48 rounded overflow-hidden"><Image width={200} height={300} alt="ecommerce" className="object-cover object-center w-full h-full block" src="/stickers/sticker1.jpeg"/></Link>
         </a>
         <div className="mt-4">
           <h3 className="text-gray-500 text-xs tracking-widest title-font mb-1">Stickers</h3>
@@ -19,7 +19,7 @@ const Stickers = () => {
       </div>
       <div className="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a className="block relative h-48 rounded overflow-hidden">
-          <Link href="/product" className="block relative h-48 rounded overflow-hidden"><Image width={200} height={300} alt="ecommerce" className="object-cover object-center w-full h-full block" src="/Stickers/sticker2.jpeg"/></Link>
+          <Link href="/product" className="block relative h-48 rounded overflow-hidden"><Image width={200} height={300} alt="ecommerce" className="object-cover object-center w-full h-full block" src="/stickers/sticker2.jpeg"/></Link>
         </a>
         <div className="mt-4">
           <h3 className="text-gray-500 text-xs tracking-widest title-font mb-1">Stickers</h3>
@@ -29,7 +29,7 @@ const Stickers = () => {
       </div>
       <div className="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a className="block relative h-48 rounded overflow-hidden">
-          <Link href="/product" className="block relative h-48 rounded overflow-hidden"><Image width={200} height={300} alt="ecommerce" className="object-cover object-center w-full h-full block" src="/Stickers/sticker3.jpeg"/></Link>
+          <Link href="/product" className="block relative h-48 rounded overflow-hidden"><Image width={200} height={300} alt="ecommerce" className="object-cover object-center w-full h-full block" src="/stickers/sticker3.jpeg"/></Link>
         </a>
         <div className="mt-4">
           <h3 className="text-gray-500 text-xs tracking-widest title-font mb-1">Stickers</h3>
@@ -39,7 +39,7 @@ const Stickers = () => {
       </div>
       <div className="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a className="block relative h-48 rounded overflow-hidden">
-          <Link href="/product" className="block relative h-48 rounded overflow-hidden"><Image width={200} height={300} alt="ecommerce" className="object-cover object-center w-full h-full block" src="/Stickers/sticker4.jpeg"/></Link>
+          <Link href="/product" className="block relative h-48 rounded overflow-hidden"><Image width={200} height={300} alt="ecommerce" className="object-cover object-center w-full h-full block" src="/stickers/sticker4.jpeg"/></Link>
         </a>
         <div className="mt-4">
           <h3 className="text-gray-500 text-xs tracking-widest title-font mb-1">Stickers</h3>
@@ -49,7 +49,7 @@ const Stickers = () => {
       </div>
       <div className="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a className="block relative h-48 rounded overflow-hidden">
-          <Link href="/product" className="block relative h-48 rounded overflow-hidden"><Image width={200} height={300} alt="ecommerce" className="object-cover object-center w-full h-full block" src="/Stickers/sticker5.jpeg"/></Link>
+          <Link href="/product" className="block relative h-48 rounded overflow-hidden"><Image width={200} height={300} alt="ecommerce" className="object-cover object-center w-full h-full block" src="/stickers/sticker5.jpeg"/></Link>
         </a>
         <div className="mt-4">
           <h3 className="text-gray-500 text-xs tracking-widest title-font mb-1">Stickers</h3>
@@ -59,7 +59,7 @@ const Stickers = () => {
       </div>
       <div className="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a className="block relative h-48 rounded overflow-hidden">
-          <Link href="/product" className="block relative h-48 rounded overflow-hidden"><Image width={200} height={300} alt="ecommerce" className="object-cover object-center w-full h-full block" src="/Stickers/sticker6.jpeg"/></Link>
+          <Link href="/product" className="block relative h-48 rounded overflow-hidden"><Image width={200} height={300} alt="ecommerce" className="object-cover object-center w-full h-full block" src="/stickers/sticker6.jpeg"/></Link>
         </a>
         <div className="mt-4">
           <h3 className="text-gray-500 text-xs tracking-widest title-font mb-1">Stickers</h3>
@@ -69,7 +69,7 @@ const Stickers = () => {
       </div>
       <div className="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a className="block relative h-48 rounded overflow-hidden">
-          <Link href="/product" className="block relative h-48 rounded overflow-hidden"><Image width={200} height={300} alt="ecommerce" className="object-cover object-center w-full h-full block" src="/Stickers/sticker7.jpeg"/></Link>
+          <Link href="/product" className="block relative h-48 rounded overflow-hidden"><Image width={200} height={300} alt="ecommerce" className="object-cover object-center w-full h-full block" src="/stickers/sticker7.jpeg"/></Link>
         </a>
         <div className="mt-4">
           <h3 className="text-gray-500 text-xs tracking-widest title-font mb-1">Stickers</h3>
@@ -79,7 +79,7 @@ const Stickers = () => {
       </div>
       <div className="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a className="block relative h-48 rounded overflow-hidden">
-          <Link href="/product" className="block relative h-48 rounded overflow-hidden"><Image width={200} height={300} alt="ecommerce" className="object-cover object-center w-full h-full block" src="/Stickers/sticker8.jpeg"/></Link>
+          <Link href="/product" className="block relative h-48 rounded overflow-hidden"><Image width={200} height={300} alt="ecommerce" className="object-cover object-center w-full h-full block" src="/stickers/sticker8.jpeg"/></Link>
         </a>
         <div className="mt-4">
           <h3 className="text-gray-500 text-xs tracking-widest title-font mb-1">Stickers</h3>
